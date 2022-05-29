@@ -1,3 +1,6 @@
 Hey this is the very first git practise session.
 Unable to push to master, so trying once again by making changes.
 Again change
+
+There is a pop coming up when I try to push into master which is credentials manager and it is used for encrypting your creds.
+ After accepting the pop up, well this time it got pushed to Master branch
